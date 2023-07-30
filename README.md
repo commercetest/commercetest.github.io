@@ -1,2 +1,2 @@
-# commerecetest.github.io
+# commercetest.github.io
 Public site for Commercetest including the NLnet work
